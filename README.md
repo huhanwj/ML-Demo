@@ -1,4 +1,5 @@
 # ML-Demo
 Simple examples given in CSCI3320 Introduction to Machine Learning
-1. *scikit-learn* folder: Tutorial given by Prof. John Lui for using  **scikit-learn**.
-2. *PANDAS* folder: Tutorial given by Prof. John Lui for using **PANDAS**.
+1. *scikit-learn-1* folder: Tutorial given by Prof. John Lui for using **scikit-learn** for data cleaning, split-and-test procedure for classification.
+2. *scikit-learn-2* folder: Tutorial given by Prof. John Lui for using **scikit-learn** for simple classification via visualization, finding classification Threshold, k-fold cross validation, KNN learner, Random Forest Learner.
+3. *PANDAS* folder: Tutorial given by Prof. John Lui for using **PANDAS**.
